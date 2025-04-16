@@ -1,0 +1,18 @@
+[package]
+name = "untitled19"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+solana-program = "1.18.26"
+
+[features]
+no-entrypoint = []
+
+[dev-dependencies]
+solana-program-test = "1.18.26"
+solana-sdk = "1.18.26"
+tokio = "1.44.2"
