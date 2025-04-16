@@ -4,7 +4,6 @@
 ## Used technologies:
 - Rust
 - Solana CLI
-- Git
 
 ## Build
 ### Use this command to build
