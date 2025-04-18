@@ -1,4 +1,4 @@
-# Solana Setup
+# Solana Setup + Deployment
 ## Description
 The project is aimed at exploring and practicing Solana smart contract development using Rust and the Solana CLI. The project is the implementation of the Blockchain Technologies II Assignment 2.2 task.
 
