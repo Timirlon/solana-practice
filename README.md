@@ -27,5 +27,7 @@
 ![screenshot](https://github.com/user-attachments/assets/b1e71868-0b00-4e01-aa87-61133432f79f)
 
 ## Team members:
-### Temirlan Turgimbayev, Amirkhan Turgimbayev, Abdykhalykk Dias
+- Temirlan Turgimbayev, SE-2321
+- Amirkhan Turgimbayev, SE-2322
+- Abdykhalykk Dias, SE-2322
 
